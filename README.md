@@ -1,2 +1,2 @@
-# CCKernal
-ACCK (Another ComputerCraft Kernel)
+# JACCKA
+JACCKA (Just Another ComputerCraft Kernel Attempt)
